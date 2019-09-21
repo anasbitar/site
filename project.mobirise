@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.10",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/letter-a-icon-9-128x128.png",
     "noImageResize": "",
     "uniqCompNum": 29,
     "versionPublish": "4.10.10",
