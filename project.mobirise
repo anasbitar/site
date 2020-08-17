@@ -55,7 +55,7 @@
           },
           "title": "Anas Bitar",
           "text": "Software Engineer",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"assets/files/Anas%20Ismail%20Bitar%20CV%202019.pdf\" data-toolbar=\"-mbrBtnMove\">Download CV</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"assets/files/my-cv%20(1).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download CV</a> ",
           "_tags": [
             "Theme"
           ],
