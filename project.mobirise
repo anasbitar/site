@@ -17,7 +17,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/letter-a-icon-9-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "4.10.10",
     "screenshot": "screenshot.png"
   },
@@ -37,7 +37,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -717,6 +717,14 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-p"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/Anas-Bitar2021_CV%20(2).pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-t"
         },
         {
           "_params": {
